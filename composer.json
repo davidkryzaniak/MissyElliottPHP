@@ -1,0 +1,10 @@
+{
+  "name": "davidkryzaniak/MissyElliottPHP",
+  "description": "Crypto based on Missy Elliott's ",
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-0" : {
+      "davidkryzaniak\\MissyElliottPHP" : "src"
+    }
+  }
+}
